@@ -1,0 +1,64 @@
+baseURL = "lifehomeinspection.github.com"
+languageCode = "en-us"
+title = "Life Home Inspection | Buy your home with sound mind"
+theme = "timer-hugo"
+publishDir = "docs"
+
+# We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
+
+# Navbar Menus
+[[menu.main]]
+name    = "Contact"
+url     = "contact"
+weight  = 1
+
+# Site Params
+[params]
+home = "Home"
+logo = "images/logo3.png"
+dateFormat = "6 January 2006"
+# Meta data
+description = "Airspace Hugo theme"
+author = "Themefisher"
+# Google Analitycs
+googleAnalitycsID = "Your ID"
+# contact form action
+contactFormAction = "#" # contact form works with https://formspree.io
+
+# Banner Section
+[params.banner]
+enable  = true
+bgImage = "images/home.jpg"
+heading = "HI, MY NAME IS Daryoush & I AM A"
+description = "I HAVE SEVERAL YEARS OF EXPERIENCE INSPECTING HOMES AND ENSURING MY CUSTOMERS MAKE THE BIGGEST INVESTMENT OF THEIR LIVES WITH SOUND MIND."
+# button
+btn     = true
+btnText = "Contact Me"
+btnURL  = "/contact"
+
+# flip text
+[[params.banner.flipText]]
+title   = "Home Inspector"
+
+# Homepage About Section
+[params.about]
+enable  = true
+title   = "ABOUT ME"
+content = "I'm a Home Inspector as well as a Realtor and have been part of the London community for 20 years. I've been in this business for many years, having inspected, purchased and sold many homes myself. Whether it's a new-build or an old home, I have the experience to help you make a wise investment. <br><br> All home inspections are performed following OAHI and CSA standards of practice."
+image   = "images/about/about.jpg"
+
+# Call to Action
+[params.cta]
+enable  = true
+title   = "CONTACT INFORMATION"
+content = "dary@lifehomeinspection.ca <br> 226-678-6835"
+btnText = "Contact me"
+btnURL  = "/contact"
+
+# Portfolio Section On Homepage
+[params.portfolio]
+enable  = true
+title   = "Examples"
+subtitle= "Here are a few examples of problems I've found during previous inspections that could potentially damage your investment in the long-run."
+
+

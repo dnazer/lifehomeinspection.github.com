@@ -1,0 +1,34 @@
+enable  : true
+title   : Offer From Me
+subtitle: >
+  I will conduct a thorough inspection of your home typically lasting anywhere from 1.5h - 3h; depending on the age and size of your home. For a FREE estimate, contact me with your home address. Prices vary depending on the age and size of the house. I will provide you with a report which will include pictures, observations, and recommendations.
+item    :
+  - icon  : ion-ios-checkmark-outline
+    title : Structural
+    description : >
+      The house structure will be investigated for potential safety hazards.
+
+  - icon  : ion-ios-checkmark-outline
+    title : Foundation
+    description : >
+      The houses foundation will be inspected for water damage and improper settling.
+
+  - icon  : ion-ios-checkmark-outline
+    title : AC and Ventilation
+    description : >
+      The house's heating and cooling system will be inspected for inefficiencies.
+
+  - icon  : ion-ios-checkmark-outline
+    title : Insulation
+    description : >
+      The house's insulation will be checked for leaks.
+
+  - icon  : ion-ios-checkmark-outline
+    title : Mold
+    description : >
+      The house will be checked for mold and other harmful growths.
+  
+  - icon  : ion-ios-checkmark-outline
+    title : Roofing
+    description : >
+      The roof will be inspected for damage and potential leaks.

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on Life Home Inspection | Buy your home with sound mind</title>
+    <link>lifehomeinspection.github.com/portfolio/</link>
+    <description>Recent content in Portfolios on Life Home Inspection | Buy your home with sound mind</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Jul 2018 16:59:54 +0600</lastBuildDate>
+    
+	<atom:link href="lifehomeinspection.github.com/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AC Refrigeration Line</title>
+      <link>lifehomeinspection.github.com/portfolio/ac-refrigeration-line/</link>
+      <pubDate>Thu, 12 Jul 2018 16:59:54 +0600</pubDate>
+      
+      <guid>lifehomeinspection.github.com/portfolio/ac-refrigeration-line/</guid>
+      <description>Details The insulation on the AC refrigeration line has deteriorated. This will cause the AC to work less efficiently, especially on hot days.</description>
+    </item>
+    
+    <item>
+      <title>Misaligned Downspout</title>
+      <link>lifehomeinspection.github.com/portfolio/misaligned-downspout/</link>
+      <pubDate>Thu, 12 Jul 2018 16:58:55 +0600</pubDate>
+      
+      <guid>lifehomeinspection.github.com/portfolio/misaligned-downspout/</guid>
+      <description>Details The downspout is not properly connected to the extension pipe causing the water to not be discharge away from the foundation. This could cause infusion, and more importantly, damage to the foundation well.</description>
+    </item>
+    
+    <item>
+      <title>Well</title>
+      <link>lifehomeinspection.github.com/portfolio/well/</link>
+      <pubDate>Thu, 12 Jul 2018 16:57:54 +0600</pubDate>
+      
+      <guid>lifehomeinspection.github.com/portfolio/well/</guid>
+      <description>Details The well is not properly nailed to the shingles which could allow water to enter the structure causing damage to the interior wall and ceiling.</description>
+    </item>
+    
+    <item>
+      <title>Kitchen Receptacle</title>
+      <link>lifehomeinspection.github.com/portfolio/receptacle/</link>
+      <pubDate>Thu, 12 Jul 2018 16:56:54 +0600</pubDate>
+      
+      <guid>lifehomeinspection.github.com/portfolio/receptacle/</guid>
+      <description>Details The kitchen receptacle is not a GFCI outlet. Any receptacle close to a wet area needs to be GFCI protected to prevent shocks and electrocution.</description>
+    </item>
+    
+  </channel>
+</rss>
